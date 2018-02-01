@@ -1,4 +1,4 @@
-Rainbow
+Rainbow and the dog branch
 
 I don't know what I'm doing
 Blue
@@ -7,3 +7,6 @@ Yellow
 I love CompSci
 Rainbow
 Taste the Rainbow
+dogs like rainbows too
+bark
+bjark
